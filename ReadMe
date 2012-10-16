@@ -1,0 +1,8 @@
+Author: Kapil Sethi
+
+Description: Test Temperature Converter App using Robotium
+
+Current project has test to check  
+a) Celsius to Fahrenheit conversion functionality
+b) Fahrenheit to Celsius conversion functionality
+c) Clear button functionality
